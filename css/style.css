@@ -1,0 +1,39 @@
+ *{
+  padding: 0;
+  margin: 0;
+ }
+
+:root{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#main{
+  background-image: url(../img/bg.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+
+h1 {font-size: 80px;
+    font-family: Impact;
+    margin-top: 50 PX;
+    margin-bottom: 30 PX;
+    color: #000000; 
+  }
+
+ .desc{
+    font-size: 30px;
+    margin-bottom: 30PX;
+    color: #000000; 
+  }
+
+
+#quoteOutput{
+  color: #000000; 
+  font-size: 30px;
+}
+
+  #authorOutput{
+    color: #000000; 
+   font-size: 50px;
+  }
